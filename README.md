@@ -1,7 +1,7 @@
 # Handwritten Music Symbol Recognition
 
 ## Overview
-This repository contains the implementation and findings of a project focused on handwritten music symbol recognition. The project explores various datasets, introduces and implements Convolutional Neural Networks (CNNs), applies transfer learning, and evaluates an ensemble model inspired by the paper "An ensemble of deep transfer learning models for handwritten music symbol recognition" by Paul et al. The primary goal is to enhance the accuracy of symbol classification in musical notations.
+This repository contains the implementation and findings of a project focused on handwritten music symbol recognition. The project explores various datasets, applies CCNNs and data augmentation models, impliments transfer learning models, and evaluates an ensemble model inspired by the paper "An ensemble of deep transfer learning models for handwritten music symbol recognition" by Paul et al. The primary goal is to enhance the accuracy of symbol classification in musical notations.
 
 ## Project Structure
 
