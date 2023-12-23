@@ -42,7 +42,7 @@ Three models exceeded the accuracy of the proposed model in the paper, showcasin
 
 ## References
 The project draws inspiration from and acknowledges the following sources:
-- [Paper on Ensemble Transfer Learning](https://link.springer.com/article/10.1007/s00521-022-06741-3)
+- [Paper on Ensemble Transfer Learning](https://link.springer.com/article/10.1007/s00521-021-06629-9)
 - [OMR Datasets](https://apacha.github.io/OMR-Datasets/)
 - Additional references provided for background and context.
 
